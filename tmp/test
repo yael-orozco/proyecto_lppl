@@ -1,0 +1,19 @@
+int yael;
+
+int main(int param1, int param2, bool param3){
+    int hello;
+    bool num2;
+    struct {
+        int a;
+        bool b;
+    } my_struct;
+
+    return 0;
+}
+
+int main2(){
+    bool jajaj;
+    jajaj = true;
+
+    return main(1, 13, 5);
+}
